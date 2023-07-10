@@ -1,0 +1,35 @@
+
+{
+     font-family: verdana,geneva,tahoma;
+   }
+body{ 
+    text-align: left;
+    background-color: blanchedalmond;
+}
+p{
+    font-size:24px ;
+    color:grey;
+    text-align: justify;
+}
+img{
+    float: left;
+    min-height: 4px;
+    min-width: 2px;
+}
+   .link{
+    text-decoration: dashed;
+
+   }
+   #heading1
+   {
+    text-align: left;
+   }
+   #heading2
+   {
+    text-align: left;
+    
+   }
+   #heading3
+   {
+    background-color: green;
+   }
